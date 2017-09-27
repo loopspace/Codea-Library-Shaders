@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Main</string>
+		<string>Advect</string>
+		<string>Affine</string>
+		<string>Alpha Mask</string>
+		<string>Alpha Smooth</string>
+		<string>Alternate Images</string>
+		<string>Benchmark</string>
+		<string>Bezier</string>
+		<string>Border</string>
+		<string>Boundary</string>
+		<string>Brunnian</string>
+		<string>Cellular</string>
+		<string>Colour Manipulation</string>
+		<string>Colour Mapping</string>
+		<string>Cubic</string>
+		<string>Default</string>
+		<string>Descending</string>
+		<string>Divergence</string>
+		<string>Explosion</string>
+		<string>Flag</string>
+		<string>Flood Fill Render</string>
+		<string>Flood Fill</string>
+		<string>Force</string>
+		<string>Fractal Popup</string>
+		<string>Fractal</string>
+		<string>GameOfLife</string>
+		<string>Gradient Fill</string>
+		<string>Gradient</string>
+		<string>Grey Scale</string>
+		<string>Grid</string>
+		<string>Height Map</string>
+		<string>Helix</string>
+		<string>Jacobi</string>
+		<string>Julia Set</string>
+		<string>Lighting</string>
+		<string>MatrixArray</string>
+		<string>MazeLighting</string>
+		<string>Meta Ball</string>
+		<string>Newton Raphson</string>
+		<string>No Texture</string>
+		<string>Particle Position</string>
+		<string>Particle Velocity</string>
+		<string>Path Mask</string>
+		<string>PotentialFlow</string>
+		<string>Random</string>
+		<string>Recursion</string>
+		<string>Rotation</string>
+		<string>ShaderTest</string>
+		<string>Shadow</string>
+		<string>SphereShader</string>
+		<string>Stereogram</string>
+		<string>Stored Shader</string>
+		<string>Stretch</string>
+		<string>Texture Affine Transformations</string>
+		<string>Texture Rotation</string>
+		<string>Tiled Texture</string>
+		<string>Tiling</string>
+		<string>Voronoi Growth</string>
+		<string>Voronoi</string>
+		<string>Wireframe</string>
+		<string>curvature</string>
+		<string>Cyclic Rendering</string>
+		<string>Droste</string>
+		<string>Poincaré disk</string>
+		<string>Split Textures</string>
+		<string>Threshold</string>
+	</array>
+	<key>Description</key>
+	<string>No description available</string>
+</dict>
+</plist>
