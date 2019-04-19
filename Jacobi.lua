@@ -68,7 +68,7 @@ void main()
 end
     
 if _M then
-    return getshader()
+    return getshader
 else
     shaders["Jacobi"] = getshader
 end

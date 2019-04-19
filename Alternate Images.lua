@@ -107,7 +107,7 @@ void main()
 end
     
 if _M then
-    return getshader()
+    return getshader
 else
     shaders["Alternate Images"] = getshader
 end

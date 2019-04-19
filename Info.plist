@@ -69,9 +69,9 @@
 		<string>curvature</string>
 		<string>Cyclic Rendering</string>
 		<string>Droste</string>
-		<string>Poincaré disk</string>
 		<string>Split Textures</string>
 		<string>Threshold</string>
+		<string>Poincaré disk</string>
 	</array>
 	<key>Description</key>
 	<string>No description available</string>

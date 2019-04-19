@@ -64,7 +64,7 @@ void main()
 end
     
 if _M then
-    return getshader()
+    return getshader
 else
     shaders["Force"] = getshader
 end

@@ -71,7 +71,7 @@ void main()
 end
     
 if _M then
-    return getshader()
+    return getshader
 else
     shaders["Gradient"] = getshader
 end

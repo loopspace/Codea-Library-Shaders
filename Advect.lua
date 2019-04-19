@@ -77,7 +77,7 @@ void main()
     //pos = clamp(pos,0.,1.);
 
     //Sample the texture at the interpolated coordinate
-    lowp vec4 col = texture2D( quantity, pos);
+    lowp vec4 col = interp( quantity, pos);
 
     //Set the output color to the texture color
     gl_FragColor = col;
@@ -87,7 +87,7 @@ void main()
 end
     
 if _M then
-    return getshader()
+    return getshader
 else
     shaders["Advect"] = getshader
 end
